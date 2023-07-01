@@ -2,6 +2,8 @@
 
 This is a currency converter application built using Node.js, TypeScript, React, Docker, Tailwindcss and Nginx. The application allows users to convert between different currencies.
 
+The app works on http://localhost:3050/ .
+
 How the app should look like:
 ![folders](https://i.imgur.com/ZHsTOp8.png)
 
